@@ -1,7 +1,7 @@
 ###  Hi, I'm Swadesh!
 
 
-<br>👯 I’m looking to collaborate on full-stack projects that involve Python, Django, or Flask.  <br>🤝 I’m looking for help with complex backend integrations and optimizing database queries.  <br>🌱 I’m currently learning Full Stack Development, focusing on combining Python with modern frontend frameworks.  <br>💬 Ask me about Python, especially how to use it effectively in full-stack development.
+<br>💻 I’m looking to collaborate on full-stack projects that involve Python, Django, or Flask.  <br>🤝 I’m looking for help with complex backend integrations and optimizing database queries.  <br>🌱 I’m currently learning Full Stack Development, focusing on combining Python with modern frontend frameworks.  <br>💬 Ask me about Python, especially how to use it effectively in full-stack development.
 
 
 ## 🌐 Socials:
